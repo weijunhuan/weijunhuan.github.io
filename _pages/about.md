@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>College of Humanities</a> Jiangxi University of Chinese Medicine
+subtitle: <a href='#'>College of Humanities</a>  Jiangxi University of Chinese Medicine
 
 profile:
   align: right
