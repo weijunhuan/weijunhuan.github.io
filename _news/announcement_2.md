@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I graduated with a doctoral degree. 🎓
+date: 2026-5-16 
 inline: false
 related_posts: false
 ---
