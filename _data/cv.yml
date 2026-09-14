@@ -39,21 +39,21 @@ cv:
       - institution: Jiangxi Normal University
         location: Nanchang, China
         area: Psychometrics
-        studyType: PhD
+        studyType: Ph.D.
         start_date: 2022.09 
         end_date: 2026.06
 
       - institution: Jiangxi Normal University
         location: Nanchang, China
         area: Psychometrics
-        studyType: MS
+        studyType: M.S.
         start_date: 2019.09
         end_date: 2022.06
         
       - institution: Jiangxi Normal University
         location: Nanchang, China
         area: Psychology
-        studyType: BS
+        studyType: B.S.
         start_date: 2015.09 
         end_date: 2019.06
         
