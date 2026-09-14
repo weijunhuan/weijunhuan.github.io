@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m officially a university lecturer now. :sparkles: :smile:
+I officially became a teacher. :sparkles: :smile:
