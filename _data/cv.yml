@@ -98,22 +98,24 @@ cv:
 
     Publications:
       - title: A multi-strategy cognitive diagnosis model based on response times and fixation counts
-        authors:
-          - Wei, Junhuan and Wang, Chun and Cai, Yan and Zhan, Peida and Tu, Dongbo
+       # authors:
+       # - Albert Einstein
         publisher: Behavior Research Methods
         releaseDate: 2026
         # url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
         # summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-      - title: Wei, J., Wang, C., Cai, Y., Zhan, P., & Tu, D. (2026). A Multi-strategy Cognitive Diagnosis Model Based on Response Times and Fixation Counts. Behavior research methods, 58(3), 75.
-      
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: A multi-strategy cognitive diagnosis model incorporating item response times based on strategy selection theories
+        publisher: Journal of Educational and Behavioral Statistics
+        releaseDate: 2024
+        
+      - title: An item response tree model for items with multiple-choice and constructed-response parts
+        publisher: Journal of Educational Measurement
+        releaseDate: 2024
+
+      - title: A mixed sequential IRT model for mixed-format items
+        publisher: Applied Psychological Measurement
+        releaseDate: 2023
 
     # Skills:
     #   - name: Physics
