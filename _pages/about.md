@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  width: 2
   more_info: >
     <p>wejunhuan5@163.com</p>
     <p>Nanchang, Jiangxi</p>
@@ -28,3 +27,9 @@ latest_posts:
 ---
 
 My main research interests include item response theory (IRT) and cognitive diagnosis (CD). My current research focuses on multi-strategy cognitive diagnostic models, aiming to develop more suitable methods for assessing and understanding student learning outcomes.
+
+<style>
+  .profile img {
+    max-width: 200px;
+  }
+</style>
