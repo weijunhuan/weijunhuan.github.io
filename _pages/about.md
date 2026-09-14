@@ -26,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My main research interests include item response theory (IRT) and cognitive diagnosis (CD). My current research focuses on multi-strategy cognitive diagnostic models, aiming to develop more suitable methods for assessing and understanding student learning outcomes.
+I am a Lecturer in the College of Humanities at Jiangxi University of Chinese Medicine. I spent ten years at Jiangxi Normal University, where I completed my BS, MS, and PhD in Psychology, and one year at the University of Washington, Seattle, as a visiting PhD student. My main research interests include item response theory (IRT) and cognitive diagnosis (CD). My current research focuses on multi-strategy cognitive diagnostic models, aiming to develop more suitable methods for assessing and understanding student learning outcomes. Outside of research, I like taking photographs. Nothing ambitious — mostly an attempt to hold on to the small, ordinary moments that would otherwise pass unnoticed.
 
 <style>
   .profile img {
-    max-width: 200px;
+    max-width: 150px;
   }
 </style>
