@@ -26,8 +26,8 @@ cv:
       - institution: University of Washington
         location: Seattle, US
     #    url: https://www.uzh.ch/
-        area: Psychometrics
-        studyType: Visiting PhD Student
+        area: Quantitative Psychology
+        studyType: Visiting Ph.D. Student
         start_date: 2025.01
         end_date: 2026.01
         # score: ""
@@ -38,22 +38,22 @@ cv:
 
       - institution: Jiangxi Normal University
         location: Nanchang, China
-        area: Psychometrics
-        studyType: Ph.D.
+     #   area: Psychometrics
+        studyType: Ph.D. in Psychometrics
         start_date: 2022.09 
         end_date: 2026.06
 
       - institution: Jiangxi Normal University
         location: Nanchang, China
-        area: Psychometrics
-        studyType: M.S.
+    #    area: Psychometrics
+        studyType: M.S. in Psychometrics
         start_date: 2019.09
         end_date: 2022.06
         
       - institution: Jiangxi Normal University
         location: Nanchang, China
-        area: Psychology
-        studyType: B.S.
+   #     area: Psychology 
+        studyType: B.S. in Psychology
         start_date: 2015.09 
         end_date: 2019.06
         
